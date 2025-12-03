@@ -1,5 +1,5 @@
 ## **Andrés Felipe Uribe**  
-### **Senior .NET Developer | Technical Lead | Software Architect**
+### **NET Developer | Technical Lead | Software Architect**
 
 I am a **Senior .NET Developer** and currently **Development Team Lead at RIWI**.  
 I’m passionate about **building clean, scalable, and maintainable software solutions**, **leading with purpose**, and **promoting growth and excellence within my team**.
